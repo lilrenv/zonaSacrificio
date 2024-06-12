@@ -1,0 +1,49 @@
+.contenedor-gris-2 {
+    border: 1px solid gray;
+    padding: 20px;
+    width: 30%;
+    margin-right: 55px;
+    float: right;
+    clear: right; /* Agregar esta propiedad para asegurar que el contenedor no afecte al footer */
+  }
+
+.contenedor-gris-ancho{
+    border: 1px solid gray;
+    width: 50%;
+    padding: 20px;
+}
+
+.imagen-mejillones{
+    width: 900px;
+    height: 550px;
+    float: right;
+    }
+
+    .imagen-mejillones img{
+        top: 0;
+        position: absolute;
+        margin-top: 950px;
+        margin-left: 90px;
+    }
+
+    .contenedor-gris-ancho-2{
+        border: 1px solid gray;
+        width: 50%;
+        padding: 20px;
+    }
+
+
+
+    .imagen-personas-salud{
+        width: 900px;
+        height: 550px;
+        float: right;
+        }
+    
+        .imagen-personas-salud img{
+            top: 0;
+            position: absolute;
+            margin-top: 1700px;
+            margin-right: 90px;
+            width: 880px;
+        }
